@@ -1,8 +1,6 @@
 文件夹内包含：
-- GUI演示视频（GUI_OPERATION）
 - Library数据库备份文件（无数据，仅结构）
 - Library项目文件（压缩包）
-- 第三部分和第四部分的文档
 
 注意：
 如何连接数据库
@@ -13,13 +11,11 @@
 
 Folder contents include:
 
-- GUI demonstration video (GUI_OPERATION)
 
 - Library database backup file (structure only, no data)
 
 - Library project files (compressed package)
 
-- Documentation for Part III and Part IV
 
 Note:
 How to connect to the database:
@@ -35,5 +31,6 @@ How to import CSV initial files:
 1. Unzip and open the Library project files.
 
 2. Run the initializer.py file in the DATABASE directory.
+
 
 3. Verify in the database whether the data has been correctly inserted into the relevant tables.
