@@ -1,0 +1,11 @@
+material_name,author,publisher,publication_date,type_id,status,price
+Introduction to Python,Mark Lutz,O'Reilly,2019-05-15,1,1,49.99
+The Great Gatsby,F. Scott Fitzgerald,Scribner,1925-04-10,2,1,12.5
+Scientific American Vol. 325,Various,Springer Nature,2021-11-01,3,2,8.99
+Database Systems,Raghu Ramakrishnan,McGraw-Hill,2002-01-01,1,1,89.95
+To Kill a Mockingbird,Harper Lee,J. B. Lippincott,1960-07-11,2,3,10.25
+National Geographic,Various,National Geographic Society,2022-03-01,3,1,6.5
+Clean Code,Robert C. Martin,Prentice Hall,2008-08-01,1,1,35.0
+1984,George Orwell,Secker & Warburg,1949-06-08,2,2,9.99
+Journal of Applied Physics,Various,AIP Publishing,2022-02-01,3,1,12.0
+The Pragmatic Programmer,Andrew Hunt,Addison-Wesley,1999-10-30,1,1,40.0

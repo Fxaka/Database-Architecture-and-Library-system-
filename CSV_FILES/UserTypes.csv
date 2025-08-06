@@ -1,0 +1,4 @@
+type_id,type_name,max_borrowings,max_borrowing_days,late_fee_per_day
+1,Student,5,56,0.50
+2,Teacher,10,112,0.50
+3,Staff,20,180,0.70
